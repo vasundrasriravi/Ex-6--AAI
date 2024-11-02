@@ -49,7 +49,8 @@ print ( "Antonyms : " ,set(antonyms))
 ```
 ## Output
 
-![Screenshot 2024-11-02 091206](https://github.com/user-attachments/assets/e69d697d-a57a-41d6-850d-08e463955637)
+![Screenshot 2024-11-02 092025](https://github.com/user-attachments/assets/b3ab16dc-929b-4c36-b7a8-2bed04112a0b)
+
 
 
 ## Result:
